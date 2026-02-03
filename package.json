@@ -1,0 +1,7 @@
+{
+  "name": "web-tools",
+  "version": "1.0",
+  "description": "Web tools for messing with the internet :3",
+  "main": "index.js",
+  "scripts": []
+}
